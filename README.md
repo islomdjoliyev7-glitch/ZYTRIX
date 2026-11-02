@@ -6,8 +6,8 @@ top jarayonlar va jonli dashboard.
 ## O'rnatish
 
 ```bash
-git clone https://github.com/USERNAME/zytrix.git
-cd zytrix
+git clone https://github.com/islomdjoliyev7-glitch/ZYTRIX.git
+cd ZYTRIX
 python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
